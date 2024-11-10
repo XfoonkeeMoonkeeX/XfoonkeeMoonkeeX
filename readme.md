@@ -22,4 +22,32 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+
+<a href="https://www.google.com" target="_blank">
+  <button style="background-color:#FF5733; color:white; padding:12px 30px; font-size:18px; border-radius:8px; box-shadow:0 4px 8px rgba(0, 0, 0, 0.3); cursor:pointer; transition: background-color 0.3s, transform 0.3s;">
+    ¡Visitas <span id="visitCounter">0</span>!
+  </button>
+</a>
+
+<script>
+  // Función para generar un número aleatorio de visitas
+  function updateVisitCounter() {
+    const randomVisits = Math.floor(Math.random() * 10000); // Cambia el rango si prefieres un número más grande
+    document.getElementById('visitCounter').textContent = randomVisits;
+  }
+
+  // Actualizar el contador cada vez que se carga la página
+  updateVisitCounter();
+
+  // Animación de hover para hacerlo más interactivo
+  const button = document.querySelector('button');
+  button.addEventListener('mouseover', () => {
+    button.style.transform = 'scale(1.1)';
+    button.style.backgroundColor = '#FF3B30';
+  });
+  button.addEventListener('mouseout', () => {
+    button.style.transform = 'scale(1)';
+    button.style.backgroundColor = '#FF5733';
+  });
+</script>
