@@ -20,10 +20,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XfoonkeeMoonkeeX&theme=dark&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XfoonkeeMoonkeeX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
-
+### Código de Visitas (JavaScript)
+```html
 <a href="https://www.google.com" target="_blank">
   <button style="background-color:#FF5733; color:white; padding:12px 30px; font-size:18px; border-radius:8px; box-shadow:0 4px 8px rgba(0, 0, 0, 0.3); cursor:pointer; transition: background-color 0.3s, transform 0.3s;">
     ¡Visitas <span id="visitCounter">0</span>!
