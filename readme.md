@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Adiel Subiabre, estudiante de ciberseguridad y apasionado por el mundo de la tecnología. Actualmente, estoy aprendiendo Python, MySQL y experimentando en PyCharm y Visual Studio. También estoy desarrollando mis habilidades en plataformas de diseño como Figma.<br><br>🎶 Además de la tecnología, disfruto de la buena música y una excelente cerveza. Siempre estoy en busca de nuevos conocimientos, proyectos y desafíos para mejorar en este emocionante mundo de la ciberseguridad y el desarrollo puedes agregarle a este perfil que estoy empezando en kali linux tambien, por favor
+👋 ¡Hola! Soy Adiel Subiabre, estudiante de ciberseguridad y apasionado por el mundo de la tecnología. Actualmente, estoy aprendiendo Python, MySQL y experimentando en PyCharm y Visual Studio. También estoy desarrollando mis habilidades en plataformas de diseño como Figma y comenzando mi recorrido en Kali Linux para profundizar en el entorno de la ciberseguridad.
+
+🎶 Además de la tecnología, disfruto de la buena música y una excelente cerveza. Siempre estoy en busca de nuevos conocimientos, proyectos y desafíos para mejorar en este emocionante mundo de la ciberseguridad y el desarrollo.
 
 
 # 💻 Tech Stack:
