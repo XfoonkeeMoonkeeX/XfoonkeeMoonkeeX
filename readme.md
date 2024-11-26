@@ -1,4 +1,10 @@
 # 💫 About Me
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![GitHub Actions](https://img.shields.io/github/workflow/status/XfoonkeeMoonkeeX/tu-repo/CI)
+![License](https://img.shields.io/github/license/XfoonkeeMoonkeeX/tu-repo)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/XfoonkeeMoonkeeX/tu-repo)
+![Dependabot](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+![GitHub Activity](https://img.shields.io/github/commit-activity/y/XfoonkeeMoonkeeX/tu-repo)
 
 👋 ¡Hola! Soy Adiel Subiabre, estudiante de ciberseguridad y apasionado por el mundo de la tecnología. Actualmente, estoy aprendiendo **Python**, **MySQL** y experimentando en **PyCharm** y **Visual Studio**. También estoy desarrollando mis habilidades en plataformas de diseño como **Figma** y comenzando mi recorrido en **Kali Linux** para profundizar en el entorno de la ciberseguridad.
 
