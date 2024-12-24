@@ -1,10 +1,16 @@
-# 💫 About Me
+# 💫 About Me  
 
-👋 ¡Hola! Soy Adiel Subiabre, estudiante de ciberseguridad y apasionado por el mundo de la tecnología. Actualmente, estoy aprendiendo **Python**, **MySQL** y experimentando en **PyCharm** y **Visual Studio**. También estoy desarrollando mis habilidades en plataformas de diseño como **Figma** y comenzando mi recorrido en **Kali Linux** para profundizar en el entorno de la ciberseguridad.
+👋 ¡Hola! Soy Adiel Subiabre, técnico en **reparación de computadoras** 💻 e instalación de software 🛠️, además de estudiante de **ciberseguridad** 🔒. Mi pasión por la tecnología me impulsa a explorar y mejorar constantemente mis conocimientos en herramientas y lenguajes clave del sector.  
 
-🎶 Además de la tecnología, disfruto de la buena música y una excelente cerveza. Siempre estoy en busca de nuevos conocimientos, proyectos y desafíos para mejorar en este emocionante mundo de la ciberseguridad y el desarrollo.
+Actualmente, estoy desarrollando habilidades en:  
+- **Python** 🐍  
+- **MySQL** 🗄️  
+- Entornos de desarrollo como **PyCharm** y **Visual Studio** 🖥️  
+- Diseño en **Figma** 🎨  
+- Exploración de **Kali Linux** para análisis y seguridad informática 🔍  
 
----
+✨ Estoy siempre dispuesto a enfrentar nuevos desafíos y aprender de cada experiencia para fortalecer mis capacidades técnicas y profesionales.
+
 ### 📧 Deja un mensaje o escríbeme:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aa.subiabre@estudiantecft-ell.cl)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiel-alejandro-subiabre-diaz-070890340/)
