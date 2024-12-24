@@ -5,7 +5,7 @@
 🎶 Además de la tecnología, disfruto de la buena música y una excelente cerveza. Siempre estoy en busca de nuevos conocimientos, proyectos y desafíos para mejorar en este emocionante mundo de la ciberseguridad y el desarrollo.
 
 ---
-### Deja un mensaje o Escribeme:
+### 📧 Deja un mensaje o escríbeme:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aa.subiabre@estudiantecft-ell.cl)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiel-alejandro-subiabre-diaz-070890340/)
 
