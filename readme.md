@@ -6,7 +6,7 @@
 
 ---
 ### Deja un mensaje o Escribeme:
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aa.subiabre@estudiantecft-ell.cl)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiel-alejandro-subiabre-diaz-070890340/)
 
 ### 💻 Tech Stack:
