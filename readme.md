@@ -7,8 +7,7 @@ Actualmente, estoy desarrollando habilidades en:
 - **Python** 🐍  
 - **MySQL** 🗄️  
 - Entornos de desarrollo como **PyCharm** y **Visual Studio** 🖥️  
-- Diseño en **Figma** 🎨  
-- Exploración de **Kali Linux** para análisis y seguridad informática 🔍  
+ - Exploración de **Kali Linux** para análisis y seguridad informática 🔍  
 
 ✨ Estoy siempre dispuesto a enfrentar nuevos desafíos y aprender de cada experiencia para fortalecer mis capacidades técnicas y profesionales.
 
