@@ -2,7 +2,7 @@
 
 # 💫 Sobre mí  
 
-👋 ¡Hola! Soy Adiel Subiabre, estudiante de **Ciberseguridad** en el CFT de Llanquihue 🔐, con un especial interés y compromiso en el campo del **Pentesting** y el análisis de vulnerabilidades.
+👋 ¡Hola! Soy Adiel Subiabre, estudiante de **Ciberseguridad** en el CFT de Llanquihue, CHILE, X Region de los lagos 🔐, con un especial interés y compromiso en el campo del **Pentesting** y el análisis de vulnerabilidades.
 
 Mi pasión por la tecnología y la seguridad informática me impulsa a profundizar en técnicas avanzadas para proteger sistemas y redes, así como a desarrollar habilidades en automatización con Python para optimizar procesos de evaluación y defensa.
 
