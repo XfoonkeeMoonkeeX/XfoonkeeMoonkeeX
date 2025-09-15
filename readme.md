@@ -8,7 +8,7 @@ Mi pasión por la tecnología y la seguridad informática me impulsa a:
 
 - Explorar técnicas ofensivas para comprender mejor cómo defender infraestructuras
 - Automatizar procesos de seguridad con **Python**
-- Profundizar en sistemas Linux, especialmente **Kali Linux** y **BlackArch**
+- Profundizar en sistemas Linux, especialmente **ParrotOs** y **Ubuntu**
 - Desarrollar habilidades prácticas con entornos de laboratorio virtualizados
 
 🧪 Actualmente estoy desarrollando mi propio **laboratorio de pentesting** usando:
